@@ -27,7 +27,18 @@ namespace CadastroVendedores
 
             CarregarDadosDataGridMetas();
 
+            InteracaoMouseNoBotao();
+
             QuantidadeRegistros();
+        }
+
+        private void InteracaoMouseNoBotao()
+        {
+            btnAdicionar.Cursor = Cursors.Hand;
+            btnBuscar.Cursor = Cursors.Hand;
+            btnCancelar.Cursor = Cursors.Hand;
+            btnEditar.Cursor = Cursors.Hand;
+            btnLimpar.Cursor = Cursors.Hand;
         }
 
         private void CarregarDadosDataGridMetas()

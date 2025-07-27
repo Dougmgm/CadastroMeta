@@ -16,3 +16,22 @@ D:\Downloads\Repos\CadastroVendedores\obj\Debug\net8.0-windows\CadastroVendedore
 D:\Downloads\Repos\CadastroVendedores\obj\Debug\net8.0-windows\ref\CadastroVendedores.dll
 D:\Downloads\Repos\CadastroVendedores\obj\Debug\net8.0-windows\CadastroVendedores.FormPrincipal.resources
 D:\Downloads\Repos\CadastroVendedores\obj\Debug\net8.0-windows\CadastroVendedores.Properties.Resources.resources
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\bin\Debug\net8.0-windows\CadastroVendedores.exe
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\bin\Debug\net8.0-windows\CadastroVendedores.deps.json
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\bin\Debug\net8.0-windows\CadastroVendedores.runtimeconfig.json
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\bin\Debug\net8.0-windows\CadastroVendedores.dll
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\bin\Debug\net8.0-windows\CadastroVendedores.pdb
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.FormCadastro.resources
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.FormPrincipal.resources
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.Properties.Resources.resources
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.csproj.GenerateResource.cache
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.AssemblyInfoInputs.cache
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.AssemblyInfo.cs
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.sourcelink.json
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.dll
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\refint\CadastroVendedores.dll
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.pdb
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\CadastroVendedores.genruntimeconfig.cache
+C:\Users\Douglas\Desktop\Cadastro Vendedores\CadastroMeta\obj\Debug\net8.0-windows\ref\CadastroVendedores.dll

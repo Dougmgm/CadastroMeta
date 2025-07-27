@@ -20,6 +20,8 @@ namespace CadastroVendedores
         {
             InitializeComponent();
 
+            InteracaoMouseNoBotao();
+
             SetarTamanhoTela();
 
             CarregarDadosProduto();
@@ -37,6 +39,18 @@ namespace CadastroVendedores
 
             if (Editando)
                 CarregarDadosEdicao();
+        }
+
+        private void InteracaoMouseNoBotao()
+        {
+            btnCancelar.Cursor = Cursors.Hand;
+            btnDuplicar.Cursor = Cursors.Hand;
+            btnSalvar.Cursor = Cursors.Hand;
+            btnVoltar.Cursor = Cursors.Hand;
+
+            rbLitro.Cursor = Cursors.Hand;
+            rbMonetario.Cursor = Cursors.Hand;
+            rbUnidade.Cursor = Cursors.Hand;
         }
 
         private void SetarTamanhoTela()

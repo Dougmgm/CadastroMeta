@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\Repos\\CadastroVendedores\\CadastroVendedores.csproj": {}
+    "C:\\Users\\Douglas\\Desktop\\Cadastro Vendedores\\CadastroMeta\\CadastroVendedores.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\Repos\\CadastroVendedores\\CadastroVendedores.csproj": {
+    "C:\\Users\\Douglas\\Desktop\\Cadastro Vendedores\\CadastroMeta\\CadastroVendedores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\Repos\\CadastroVendedores\\CadastroVendedores.csproj",
+        "projectUniqueName": "C:\\Users\\Douglas\\Desktop\\Cadastro Vendedores\\CadastroMeta\\CadastroVendedores.csproj",
         "projectName": "CadastroVendedores",
-        "projectPath": "D:\\Downloads\\Repos\\CadastroVendedores\\CadastroVendedores.csproj",
+        "projectPath": "C:\\Users\\Douglas\\Desktop\\Cadastro Vendedores\\CadastroMeta\\CadastroVendedores.csproj",
         "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\Repos\\CadastroVendedores\\obj\\",
+        "outputPath": "C:\\Users\\Douglas\\Desktop\\Cadastro Vendedores\\CadastroMeta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
