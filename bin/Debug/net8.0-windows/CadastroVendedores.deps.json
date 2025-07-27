@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CadastroVendedores/1.0.0": {
+        "runtime": {
+          "CadastroVendedores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadastroVendedores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
